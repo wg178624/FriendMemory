@@ -1,0 +1,14 @@
+[project]
+name = "bio-memory-mechanism"
+version = "0.1.0"
+description = "A runnable Python project implementing a friend-style relational memory system."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+pythonpath = ["app"]
+testpaths = ["tests"]

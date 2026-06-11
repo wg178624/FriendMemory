@@ -1,0 +1,21 @@
+{
+  "relationships": {},
+  "memories": {},
+  "memory_graph_edges": {},
+  "emotional_memories": {},
+  "story_nodes": {},
+  "emotional_trajectories": {},
+  "core_identity": {},
+  "core_identity_delete_requests": {},
+  "memory_delete_requests": {},
+  "reset_requests": {},
+  "health_alerts": {},
+  "guardian_summaries": {},
+  "commitment_reminders": {},
+  "retrieval_audit_log": [],
+  "ai_decision_log": [],
+  "deviation_log": [],
+  "deletion_compliance_log": [],
+  "relationship_ending_support_log": [],
+  "migration_batches": {}
+}

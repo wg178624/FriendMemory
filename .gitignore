@@ -1,0 +1,10 @@
+.venv/
+.uv-cache/
+.env
+.env.local
+__pycache__/
+*.py[cod]
+data/*.json
+!data/friend_memory_state.json
+*.copilot
+/docs
